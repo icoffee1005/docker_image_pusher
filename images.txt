@@ -1,1 +1,1 @@
-https://github.com/immich-app/immich
+github.com/immich-app/immich
