@@ -1,2 +1,1 @@
-dqzboy/docker-proxy
-immich-app
+immich-app/immich
