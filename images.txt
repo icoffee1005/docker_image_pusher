@@ -1,1 +1,1 @@
-smallst
+hub.docker.com/r/smallst/
