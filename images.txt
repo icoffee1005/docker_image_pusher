@@ -1,1 +1,1 @@
-smallst/ghcr.io.immich-app.immich-web
+smallst/ghcr.io.immich-app.immich-web:release
