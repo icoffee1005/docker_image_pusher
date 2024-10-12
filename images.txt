@@ -1,1 +1,1 @@
-hub.docker.com/r/smallst/
+hub.docker.com/r/smallst/ghcr.io.immich-app.immich-web
